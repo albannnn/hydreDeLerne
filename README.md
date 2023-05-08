@@ -1,9 +1,9 @@
 # Hydre De Lerne
 ### CUREENT VERSION : 1.0
 ## 1.0
--> Jeu créé par moi-même 
+* Jeu créé par moi-même 
 ## 1.1
--> WIP 
+* WIP 
 ### Plusieurs ajouts :
 * Menu avec les règles
 * Score à battre
