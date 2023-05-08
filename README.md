@@ -1,4 +1,5 @@
 # hydreDeLerne
+CUREENT VERSION : 1.0
 ## 1.0
 *Jeu créé par moi-même 
 ## 1.1
