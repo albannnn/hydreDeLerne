@@ -1,4 +1,4 @@
-from xml.dom.NodeFilter import NodeFilter
+
 from createHydre import createHydre
 from Hydre import Hydre
 import random
